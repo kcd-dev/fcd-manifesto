@@ -1,4 +1,4 @@
-# FCD Manifesto - 功能收敛文档宣言
+# FCD Manifesto - 功能收敛开发核心介绍
 
 ## 🎯 核心理念
 
